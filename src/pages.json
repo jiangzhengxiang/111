@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "path": "pages/dashboard/dashboard",
+      "style": {
+        "navigationBarTitleText": "今日无事",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "今日无事",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
