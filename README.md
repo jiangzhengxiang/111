@@ -1,3 +1,4 @@
+微信小程序，通过静态网页移植到uinapp 
  1. 🤖 智能 AI 引导者（LLM 模块）
    * 深度集成 DeepSeek：支持 deepseek-chat 与 deepseek-reasoner 双模型切换。
    * 流式传输 (Streaming)：文字逐字实时呈现，消除等待焦虑，体验流畅自然。
